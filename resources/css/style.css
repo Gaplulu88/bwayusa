@@ -13,6 +13,12 @@
         background-color:   dimgray;
       }
 
+     a {
+        font-size: 18px;
+        color: white;
+        font-family:   Helvetica;
+        text-align:   vertical;
+     }
       /* id */
 
     #top {
