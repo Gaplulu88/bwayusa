@@ -1,7 +1,105 @@
-/* selector */
 
 
-/* class */
+
+      /* selector */
+      body {
+        text-align:   center;
+      }
+
+      footer {
+        text-align:   left;
+        font-size:   15px;
+        color: white;
+        background-color:   dimgray;
+      }
+
+      /* id */
+
+    #top {
+        background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
+        color: white;
+        font-family: Helvetica;
+        font-size:   70px;
+        font-weight:   bold;
+    }
+
+    #junk {
+        font-family: Helvetica;
+        font-size: 18px;
+        color: red;
+        }
+
+    #bullcrap {
+        background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
+        font-family: Helvetica;
+        font-size: 23px;
+        font-weight: bold;
+        color: white;
+          }
 
 
-/* id */
+
+    /* class */
+    .two {
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+    }
+    .two h3 {
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .two p {
+      font-family: Helvetica;
+      font-size: 14px;
+    }
+    .three h3 {
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .three p {
+      font-family: Helvetica;
+      font-size: 14px;
+    }
+
+    .four h3 {
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .four p {
+      font-family: Helvetica;
+      font-size: 14px;
+    }
+
+    .six h3 {
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .six p {
+      font-family: Helvetica;
+      font-size: 14px;
+    }
+
+    .seven h3 {
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .seven p {
+      font-family: Helvetica;
+      font-size: 14px;
+    }
+
+    .eight h3 {
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+    }
+    .eight p {
+      font-family: Helvetica;
+      font-size: 14px;
+    }
